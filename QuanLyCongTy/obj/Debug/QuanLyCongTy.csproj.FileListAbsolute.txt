@@ -12,3 +12,10 @@ C:\Users\PCCCCCC\Desktop\QuanLyCongTy\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLy
 C:\Users\PCCCCCC\Desktop\QuanLyCongTy\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
 C:\Users\PCCCCCC\Desktop\QuanLyCongTy\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
 C:\Users\PCCCCCC\Desktop\QuanLyCongTy\QuanLyCongTy\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe.config
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\bin\Debug\QuanLyCongTy.exe
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\bin\Debug\QuanLyCongTy.pdb
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\obj\Debug\QuanLyCongTy.csprojAssemblyReference.cache
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\obj\Debug\QuanLyCongTy.csproj.CoreCompileInputs.cache
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\obj\Debug\QuanLyCongTy.exe
+C:\Users\ahihi\Desktop\QuanLyCongTy1-master\QuanLyCongTy1-master\QuanLyCongTy\obj\Debug\QuanLyCongTy.pdb

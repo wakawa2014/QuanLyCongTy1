@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace QuanLyCongTy
 {
-    class Manager : Employer
+    internal class Manager
     {
         public List<Employer> Employers = new List<Employer>();
+        public Employer ThongTin = new Employer();
     }
 }

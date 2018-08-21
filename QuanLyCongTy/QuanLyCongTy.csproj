@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Employer.cs" />
     <Compile Include="Manager.cs" />
+    <Compile Include="Method.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="AssemblyInfo.cs" />
   </ItemGroup>
